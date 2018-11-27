@@ -1,0 +1,5 @@
+
+ParcacikSuruOptimizasyonu;
+AriAlgoritmasi;
+
+
